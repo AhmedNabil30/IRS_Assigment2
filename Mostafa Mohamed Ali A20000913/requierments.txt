@@ -1,0 +1,130 @@
+**Requirements.txt**
+
+This file outlines the Python libraries and dependencies needed to run the recommender system analysis.
+
+---
+**Required Libraries:**
+
+1. **pandas** (Data manipulation and analysis)
+   - `pip install pandas`
+
+2. **numpy** (Numerical computations)
+   - `pip install numpy`
+
+3. **matplotlib** (Visualization for graphs and plots)
+   - `pip install matplotlib`
+
+4. **scikit-learn** (Cosine similarity calculations and machine learning tools)
+   - `pip install scikit-learn`
+
+5. **seaborn** (Optional for advanced visualizations)
+   - `pip install seaborn`
+
+6. **Jupyter Notebook** (Optional for interactive data analysis and debugging)
+   - `pip install notebook`
+
+---
+**File Dependencies:**
+1. `pivoted_user_item_ratings.csv` – Initial dataset file.
+2. `modified_ratings.csv` – Dataset file with introduced missing values.
+3. Output files: 
+   - `case1_results.txt`
+   - `case1_2_results.txt`
+   - `case1_3_results.txt`
+   - `case2_1_results.txt`
+   - `case2_2_results.txt`
+   - `case2_3_results.txt`
+
+---
+**Python Version:**
+- Python 3.8 or higher
+
+Ensure the environment has these packages installed before running any scripts.
+
+---
+**Installation:**
+Run the following command to install all dependencies at once:
+```bash
+pip install pandas numpy matplotlib scikit-learn seaborn notebook
+```
+
+---
+**README.txt**
+
+# Recommender System Analysis Project
+
+## Project Overview
+This project involves building and analyzing a recommender system using collaborative filtering techniques. The analysis consists of multiple cases that focus on both user-based and item-based approaches, applying cosine similarity and Pearson Correlation Coefficient (PCC) methods.
+
+## File Structure
+1. **Datasets:**
+   - `pivoted_user_item_ratings.csv`: The original dataset.
+   - `modified_ratings.csv`: Dataset with introduced missing values for target items and active users.
+
+2. **Scripts:**
+   - `Adjusted_dataset.py`: Preprocesses the dataset, introduces missing values, and identifies active users and target items.
+   - `Case1.py`: User-based collaborative filtering using cosine similarity.
+   - `Case1.2.py`: User-based filtering with mean-centering adjustments.
+   - `Case1.3.py`: User-based filtering with PCC similarity.
+   - `Case2.1.py`: Item-based collaborative filtering using cosine similarity.
+   - `Case2.2.py`: Item-based filtering with mean-centering adjustments.
+   - `Case2.3.py`: Item-based filtering with PCC similarity.
+
+3. **Outputs:**
+   - Results are saved in text files: `case1_results.txt`, `case1_2_results.txt`, etc.
+
+4. **Visualization:**
+   - Item and user similarity graphs are created using `matplotlib`.
+
+## Instructions for Running the Project
+1. Install the required libraries (see `Requirements.txt`):
+   ```bash
+   pip install pandas numpy matplotlib scikit-learn seaborn notebook
+   ```
+
+2. Run the preprocessing script to adjust the dataset:
+   ```bash
+   python Adjusted_dataset.py
+   ```
+
+3. Execute each case study script to generate results:
+   ```bash
+   python Case1.py
+   python Case1.2.py
+   python Case1.3.py
+   python Case2.1.py
+   python Case2.2.py
+   python Case2.3.py
+   ```
+
+4. Check the output text files for detailed results and analysis.
+
+## Key Features
+- **User-Based Filtering:** 
+  - Cosine similarity
+  - Mean-centered adjustments
+  - PCC similarity
+- **Item-Based Filtering:**
+  - Cosine similarity
+  - Mean-centered adjustments
+  - PCC similarity
+
+## Results
+The output files contain:
+1. Cosine similarity and PCC scores for target users/items.
+2. Top 20% closest users/items based on similarity.
+3. Predicted ratings for missing values.
+4. Results with discounted similarity scores.
+
+## Limitations
+- The results depend on the sparsity of the dataset and missing values.
+- Performance may vary with different threshold values.
+
+## Conclusion
+This project provides a comparative analysis of different collaborative filtering techniques, highlighting the impact of similarity metrics and preprocessing adjustments.
+
+---
+**Contact**
+For questions or collaboration, reach out to:
+- Email: Sha3onn@gmail.com
+-
