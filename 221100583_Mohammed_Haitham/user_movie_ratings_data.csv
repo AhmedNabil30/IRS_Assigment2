@@ -1,0 +1,1479 @@
+user_id,media_id,rating,title
+1,27205,8.3,Inception
+1,157336,8.1,Interstellar
+1,155,8.5,The Dark Knight
+1,299536,8.3,Avengers: Infinity War
+1,550,7.9,Fight Club
+1,680,7.6,Pulp Fiction
+1,13,8.9,Forrest Gump
+1,278,9.4,The Shawshank Redemption
+1,299534,7.7,Avengers: Endgame
+1,120,8.1,The Lord of the Rings: The Fellowship of the Ring
+2,27205,8.9,Inception
+2,157336,8.1,Interstellar
+2,155,8.3,The Dark Knight
+2,299536,8.6,Avengers: Infinity War
+2,550,8.3,Fight Club
+2,680,8.2,Pulp Fiction
+2,13,8.1,Forrest Gump
+2,278,8.6,The Shawshank Redemption
+2,299534,8.4,Avengers: Endgame
+2,120,9.0,The Lord of the Rings: The Fellowship of the Ring
+3,27205,8.9,Inception
+3,157336,8.2,Interstellar
+3,155,8.1,The Dark Knight
+3,299536,8.6,Avengers: Infinity War
+3,550,9.3,Fight Club
+3,680,7.9,Pulp Fiction
+3,13,7.9,Forrest Gump
+3,278,9.5,The Shawshank Redemption
+3,299534,8.0,Avengers: Endgame
+3,120,8.0,The Lord of the Rings: The Fellowship of the Ring
+4,27205,8.4,Inception
+4,157336,8.3,Interstellar
+4,155,7.9,The Dark Knight
+4,299536,8.7,Avengers: Infinity War
+4,550,9.4,Fight Club
+4,680,8.0,Pulp Fiction
+4,13,9.0,Forrest Gump
+4,278,8.7,The Shawshank Redemption
+4,299534,9.2,Avengers: Endgame
+4,120,8.9,The Lord of the Rings: The Fellowship of the Ring
+5,27205,8.1,Inception
+5,157336,8.6,Interstellar
+5,155,9.5,The Dark Knight
+5,299536,8.6,Avengers: Infinity War
+5,550,8.2,Fight Club
+5,680,9.3,Pulp Fiction
+5,13,8.9,Forrest Gump
+5,278,8.3,The Shawshank Redemption
+5,299534,7.8,Avengers: Endgame
+5,120,7.8,The Lord of the Rings: The Fellowship of the Ring
+6,27205,8.8,Inception
+6,157336,8.3,Interstellar
+6,155,8.7,The Dark Knight
+6,299536,8.1,Avengers: Infinity War
+6,550,8.2,Fight Club
+6,680,8.2,Pulp Fiction
+6,13,8.7,Forrest Gump
+6,278,8.9,The Shawshank Redemption
+6,299534,8.1,Avengers: Endgame
+6,120,8.1,The Lord of the Rings: The Fellowship of the Ring
+7,27205,8.1,Inception
+7,157336,7.4,Interstellar
+7,155,9.1,The Dark Knight
+7,299536,7.7,Avengers: Infinity War
+7,550,7.5,Fight Club
+7,680,8.7,Pulp Fiction
+7,13,8.7,Forrest Gump
+7,278,9.0,The Shawshank Redemption
+7,299534,8.5,Avengers: Endgame
+7,120,8.7,The Lord of the Rings: The Fellowship of the Ring
+8,27205,7.6,Inception
+8,157336,7.4,Interstellar
+8,155,8.9,The Dark Knight
+8,299536,7.9,Avengers: Infinity War
+8,550,9.3,Fight Club
+8,680,8.8,Pulp Fiction
+8,13,8.1,Forrest Gump
+8,278,9.1,The Shawshank Redemption
+8,299534,8.1,Avengers: Endgame
+8,120,9.2,The Lord of the Rings: The Fellowship of the Ring
+9,27205,8.6,Inception
+9,157336,7.5,Interstellar
+9,155,7.8,The Dark Knight
+9,299536,8.4,Avengers: Infinity War
+9,550,8.8,Fight Club
+9,680,8.3,Pulp Fiction
+9,13,8.3,Forrest Gump
+9,278,8.5,The Shawshank Redemption
+9,299534,7.5,Avengers: Endgame
+9,120,9.2,The Lord of the Rings: The Fellowship of the Ring
+10,27205,8.0,Inception
+10,157336,9.2,Interstellar
+10,155,8.3,The Dark Knight
+10,299536,8.4,Avengers: Infinity War
+10,550,7.9,Fight Club
+10,680,8.0,Pulp Fiction
+10,13,8.1,Forrest Gump
+10,278,8.7,The Shawshank Redemption
+10,299534,8.8,Avengers: Endgame
+10,120,7.4,The Lord of the Rings: The Fellowship of the Ring
+11,255709,7.8,Hope
+11,550,7.7,Fight Club
+11,1891,7.9,The Empire Strikes Back
+11,447362,8.8,Life in a Year
+11,299536,8.7,Avengers: Infinity War
+11,424,9.0,Schindler's List
+11,335,9.0,Once Upon a Time in the West
+11,914,8.3,The Great Dictator
+11,28,8.6,Apocalypse Now
+11,378064,9.3,A Silent Voice: The Movie
+11,19404,7.8,Dilwale Dulhania Le Jayenge
+11,4935,9.1,Howl's Moving Castle
+11,497,7.8,The Green Mile
+11,274,8.2,The Silence of the Lambs
+11,12493,7.4,High and Low
+11,1585,8.7,It's a Wonderful Life
+11,8587,7.8,The Lion King
+11,527641,7.6,Five Feet Apart
+11,128,8.2,Princess Mononoke
+11,18491,8.3,Neon Genesis Evangelion: The End of Evangelion
+12,110420,8.2,Wolf Children
+12,25237,9.1,Come and See
+12,13,8.2,Forrest Gump
+12,122,8.0,The Lord of the Rings: The Return of the King
+12,299534,8.5,Avengers: Endgame
+12,19404,8.9,Dilwale Dulhania Le Jayenge
+12,3782,8.2,Ikiru
+12,508965,8.7,Klaus
+12,1184918,7.8,The Wild Robot
+12,105,7.9,Back to the Future
+12,527641,7.9,Five Feet Apart
+12,975,9.0,Paths of Glory
+13,4935,9.1,Howl's Moving Castle
+13,1891,7.8,The Empire Strikes Back
+13,25237,8.2,Come and See
+13,599,9.2,Sunset Boulevard
+13,18491,8.4,Neon Genesis Evangelion: The End of Evangelion
+13,424,7.6,Schindler's List
+13,299534,7.4,Avengers: Endgame
+13,447362,7.5,Life in a Year
+13,490132,7.6,Green Book
+13,510,9.4,One Flew Over the Cuckoo's Nest
+13,429,8.8,"The Good, the Bad and the Ugly"
+13,637,8.2,Life Is Beautiful
+13,157336,9.2,Interstellar
+13,497,9.4,The Green Mile
+13,27205,7.8,Inception
+14,10494,7.8,Perfect Blue
+14,3082,8.5,Modern Times
+14,429,9.3,"The Good, the Bad and the Ugly"
+14,311,9.2,Once Upon a Time in America
+14,10376,7.5,The Legend of 1900
+14,157336,8.7,Interstellar
+14,3782,8.6,Ikiru
+14,77338,8.0,The Intouchables
+14,630566,8.8,Clouds
+14,238,9.4,The Godfather
+14,372058,9.1,Your Name.
+14,807,8.4,Se7en
+14,27205,9.3,Inception
+14,572154,7.6,Rascal Does Not Dream of a Dreaming Girl
+14,696374,8.6,Gabriel's Inferno
+14,346,9.2,Seven Samurai
+14,92321,8.9,Hotarubi no Mori e
+14,539,7.9,Psycho
+14,389,8.8,12 Angry Men
+14,637920,7.9,Miracle in Cell No. 7
+15,299536,9.0,Avengers: Infinity War
+15,508965,8.7,Klaus
+15,238,8.6,The Godfather
+15,10376,9.0,The Legend of 1900
+15,27205,7.5,Inception
+15,550,8.4,Fight Club
+15,92321,9.0,Hotarubi no Mori e
+15,807,8.6,Se7en
+15,901,8.7,City Lights
+15,1585,8.9,It's a Wonderful Life
+15,129,7.6,Spirited Away
+15,12477,8.5,Grave of the Fireflies
+15,122,7.6,The Lord of the Rings: The Return of the King
+15,510,8.3,One Flew Over the Cuckoo's Nest
+15,761053,8.7,Gabriel's Inferno: Part III
+15,569094,8.4,Spider-Man: Across the Spider-Verse
+15,389,8.7,12 Angry Men
+16,299536,8.8,Avengers: Infinity War
+16,429,8.2,"The Good, the Bad and the Ugly"
+16,12493,8.7,High and Low
+16,680,8.6,Pulp Fiction
+16,121,8.5,The Lord of the Rings: The Two Towers
+16,110420,8.6,Wolf Children
+16,378064,8.3,A Silent Voice: The Movie
+16,4935,7.6,Howl's Moving Castle
+16,550,8.8,Fight Club
+16,28,8.8,Apocalypse Now
+16,311,7.7,Once Upon a Time in America
+16,598,9.3,City of God
+16,335,8.3,Once Upon a Time in the West
+16,496243,8.9,Parasite
+16,670,8.6,Oldboy
+16,92321,8.4,Hotarubi no Mori e
+17,447362,8.7,Life in a Year
+17,567,8.7,Rear Window
+17,299536,7.4,Avengers: Infinity War
+17,299534,8.0,Avengers: Endgame
+17,335,7.3,Once Upon a Time in the West
+17,569094,7.6,Spider-Man: Across the Spider-Verse
+17,92321,8.1,Hotarubi no Mori e
+17,389,9.1,12 Angry Men
+17,283566,7.5,Evangelion: 3.0+1.0 Thrice Upon a Time
+17,527641,8.1,Five Feet Apart
+17,13,7.9,Forrest Gump
+17,539,9.0,Psycho
+17,424,7.7,Schindler's List
+17,510,9.3,One Flew Over the Cuckoo's Nest
+17,274,7.7,The Silence of the Lambs
+17,12477,9.2,Grave of the Fireflies
+17,73,7.9,American History X
+17,550,8.5,Fight Club
+17,1891,9.3,The Empire Strikes Back
+18,769,7.5,GoodFellas
+18,3782,9.1,Ikiru
+18,240,7.6,The Godfather Part II
+18,497,8.1,The Green Mile
+18,128,7.9,Princess Mononoke
+18,724089,8.1,Gabriel's Inferno: Part II
+18,40096,8.9,A Dog's Will
+18,105,8.4,Back to the Future
+18,539,9.1,Psycho
+18,8587,7.5,The Lion King
+18,13,8.6,Forrest Gump
+18,510,7.6,One Flew Over the Cuckoo's Nest
+18,110420,8.2,Wolf Children
+18,12477,9.1,Grave of the Fireflies
+18,92321,7.9,Hotarubi no Mori e
+18,77338,8.7,The Intouchables
+18,644479,7.6,Dedicated to my ex
+19,569094,8.1,Spider-Man: Across the Spider-Verse
+19,311,8.6,Once Upon a Time in America
+19,299534,7.2,Avengers: Endgame
+19,567,9.3,Rear Window
+19,761053,8.2,Gabriel's Inferno: Part III
+19,324857,9.0,Spider-Man: Into the Spider-Verse
+19,598,7.5,City of God
+19,155,9.2,The Dark Knight
+19,975,7.5,Paths of Glory
+19,27205,9.2,Inception
+19,1585,8.4,It's a Wonderful Life
+19,92321,8.5,Hotarubi no Mori e
+19,25237,7.4,Come and See
+19,73,8.0,American History X
+19,389,8.7,12 Angry Men
+19,670,8.7,Oldboy
+19,238,9.3,The Godfather
+19,122,9.2,The Lord of the Rings: The Return of the King
+19,424,9.3,Schindler's List
+20,1184918,9.2,The Wild Robot
+20,1084736,8.9,The Count of Monte-Cristo
+20,807,8.6,Se7en
+20,724089,9.1,Gabriel's Inferno: Part II
+20,389,8.7,12 Angry Men
+20,278,7.7,The Shawshank Redemption
+20,299536,7.3,Avengers: Infinity War
+20,510,7.9,One Flew Over the Cuckoo's Nest
+20,110420,7.9,Wolf Children
+20,255709,7.8,Hope
+21,508965,8.9,Klaus
+21,372058,8.7,Your Name.
+21,598,8.9,City of God
+21,155,9.2,The Dark Knight
+21,299534,8.8,Avengers: Endgame
+21,120,9.3,The Lord of the Rings: The Fellowship of the Ring
+21,14537,9.4,Harakiri
+21,129,8.9,Spirited Away
+21,265177,7.6,Mommy
+21,1184918,7.8,The Wild Robot
+21,19404,9.4,Dilwale Dulhania Le Jayenge
+21,105,8.4,Back to the Future
+21,240,7.9,The Godfather Part II
+21,101,8.7,Léon: The Professional
+22,490132,8.4,Green Book
+22,569094,8.8,Spider-Man: Across the Spider-Verse
+22,25237,9.2,Come and See
+22,157336,7.8,Interstellar
+22,128,9.3,Princess Mononoke
+22,807,8.6,Se7en
+22,244786,9.4,Whiplash
+22,496243,9.0,Parasite
+22,283566,9.0,Evangelion: 3.0+1.0 Thrice Upon a Time
+22,644479,8.5,Dedicated to my ex
+22,914,8.7,The Great Dictator
+22,539,8.2,Psycho
+22,346,8.5,Seven Samurai
+22,10376,9.0,The Legend of 1900
+23,372058,8.3,Your Name.
+23,278,8.7,The Shawshank Redemption
+23,299536,8.9,Avengers: Infinity War
+23,92321,7.4,Hotarubi no Mori e
+23,346,8.5,Seven Samurai
+23,630566,7.6,Clouds
+23,14537,8.3,Harakiri
+23,157336,9.1,Interstellar
+23,429,8.1,"The Good, the Bad and the Ugly"
+23,504253,7.7,I Want to Eat Your Pancreas
+24,378064,8.4,A Silent Voice: The Movie
+24,311,7.8,Once Upon a Time in America
+24,274,8.4,The Silence of the Lambs
+24,240,8.8,The Godfather Part II
+24,101,8.0,Léon: The Professional
+24,105,8.6,Back to the Future
+24,12493,8.5,High and Low
+24,637920,7.7,Miracle in Cell No. 7
+24,11216,8.7,Cinema Paradiso
+24,207,9.1,Dead Poets Society
+24,497,7.6,The Green Mile
+24,769,7.5,GoodFellas
+25,14537,8.3,Harakiri
+25,12493,9.2,High and Low
+25,299534,8.0,Avengers: Endgame
+25,378064,7.5,A Silent Voice: The Movie
+25,10494,7.5,Perfect Blue
+25,299536,7.4,Avengers: Infinity War
+25,105,9.0,Back to the Future
+25,155,8.0,The Dark Knight
+25,1585,7.6,It's a Wonderful Life
+25,761053,9.1,Gabriel's Inferno: Part III
+25,122,8.7,The Lord of the Rings: The Return of the King
+25,77338,8.1,The Intouchables
+25,101,8.9,Léon: The Professional
+25,42269,7.6,We All Loved Each Other So Much
+25,255709,9.2,Hope
+25,25237,8.5,Come and See
+25,207,9.0,Dead Poets Society
+26,572154,8.0,Rascal Does Not Dream of a Dreaming Girl
+26,157336,9.2,Interstellar
+26,424,8.5,Schindler's List
+26,335,8.2,Once Upon a Time in the West
+26,598,8.0,City of God
+26,19404,7.6,Dilwale Dulhania Le Jayenge
+26,637920,8.0,Miracle in Cell No. 7
+26,14537,9.0,Harakiri
+26,129,9.2,Spirited Away
+26,975,8.3,Paths of Glory
+26,1084736,8.4,The Count of Monte-Cristo
+26,12477,7.5,Grave of the Fireflies
+26,1891,7.9,The Empire Strikes Back
+26,324857,8.3,Spider-Man: Into the Spider-Verse
+26,3082,8.0,Modern Times
+26,122,9.1,The Lord of the Rings: The Return of the King
+26,311,8.1,Once Upon a Time in America
+26,496243,8.5,Parasite
+27,10494,9.2,Perfect Blue
+27,4935,8.9,Howl's Moving Castle
+27,1084736,8.6,The Count of Monte-Cristo
+27,10376,8.2,The Legend of 1900
+27,121,7.8,The Lord of the Rings: The Two Towers
+27,372058,9.1,Your Name.
+27,389,9.3,12 Angry Men
+27,567,8.3,Rear Window
+27,14537,7.6,Harakiri
+27,299536,8.3,Avengers: Infinity War
+27,3082,8.0,Modern Times
+27,73,9.1,American History X
+27,508965,8.0,Klaus
+27,25237,7.9,Come and See
+27,28,9.1,Apocalypse Now
+27,19404,8.4,Dilwale Dulhania Le Jayenge
+27,157336,8.8,Interstellar
+27,1184918,8.2,The Wild Robot
+27,490132,8.3,Green Book
+27,1891,9.1,The Empire Strikes Back
+28,278,8.3,The Shawshank Redemption
+28,121,7.5,The Lord of the Rings: The Two Towers
+28,1585,8.9,It's a Wonderful Life
+28,724089,8.8,Gabriel's Inferno: Part II
+28,539,7.8,Psycho
+28,429,8.5,"The Good, the Bad and the Ugly"
+28,324857,8.1,Spider-Man: Into the Spider-Verse
+28,128,7.4,Princess Mononoke
+28,42269,7.5,We All Loved Each Other So Much
+28,28,7.4,Apocalypse Now
+28,4935,8.0,Howl's Moving Castle
+28,12493,8.9,High and Low
+28,769,7.7,GoodFellas
+28,975,7.3,Paths of Glory
+29,11216,8.6,Cinema Paradiso
+29,539,8.8,Psycho
+29,155,8.4,The Dark Knight
+29,10494,7.6,Perfect Blue
+29,423,8.2,The Pianist
+29,550,7.6,Fight Club
+29,769,7.9,GoodFellas
+29,724089,8.2,Gabriel's Inferno: Part II
+29,128,8.6,Princess Mononoke
+29,19404,8.3,Dilwale Dulhania Le Jayenge
+29,567,8.1,Rear Window
+29,4935,7.5,Howl's Moving Castle
+29,497,7.6,The Green Mile
+29,914,9.0,The Great Dictator
+29,389,8.6,12 Angry Men
+29,12477,8.2,Grave of the Fireflies
+29,510,9.0,One Flew Over the Cuckoo's Nest
+29,278,8.0,The Shawshank Redemption
+30,1891,7.6,The Empire Strikes Back
+30,807,8.3,Se7en
+30,18491,7.9,Neon Genesis Evangelion: The End of Evangelion
+30,73,9.0,American History X
+30,761053,7.8,Gabriel's Inferno: Part III
+30,995133,8.4,"The Boy, the Mole, the Fox and the Horse"
+30,77338,8.0,The Intouchables
+30,769,8.1,GoodFellas
+30,265177,7.6,Mommy
+30,121,7.6,The Lord of the Rings: The Two Towers
+30,508965,8.6,Klaus
+30,42269,8.1,We All Loved Each Other So Much
+30,389,8.2,12 Angry Men
+30,105,8.4,Back to the Future
+30,598,8.5,City of God
+30,12477,9.3,Grave of the Fireflies
+31,447362,8.6,Life in a Year
+31,550,9.1,Fight Club
+31,121,8.2,The Lord of the Rings: The Two Towers
+31,11216,7.5,Cinema Paradiso
+31,1084736,7.6,The Count of Monte-Cristo
+31,761053,7.8,Gabriel's Inferno: Part III
+31,14537,7.9,Harakiri
+31,40096,9.1,A Dog's Will
+31,490132,8.7,Green Book
+31,598,9.3,City of God
+31,265177,8.2,Mommy
+31,539,9.3,Psycho
+31,389,8.3,12 Angry Men
+31,496243,8.5,Parasite
+31,630566,7.4,Clouds
+31,10494,8.7,Perfect Blue
+31,680,8.7,Pulp Fiction
+31,3082,8.6,Modern Times
+31,1184918,8.8,The Wild Robot
+32,278,7.8,The Shawshank Redemption
+32,630566,8.1,Clouds
+32,274,9.0,The Silence of the Lambs
+32,3082,8.4,Modern Times
+32,8587,7.9,The Lion King
+32,539,8.2,Psycho
+32,680,7.5,Pulp Fiction
+32,598,8.2,City of God
+32,550,9.3,Fight Club
+32,18491,8.8,Neon Genesis Evangelion: The End of Evangelion
+32,299534,7.8,Avengers: Endgame
+32,335,8.0,Once Upon a Time in the West
+32,1084736,8.7,The Count of Monte-Cristo
+32,27205,8.8,Inception
+32,424,9.1,Schindler's List
+32,299536,8.7,Avengers: Infinity War
+32,696374,7.8,Gabriel's Inferno
+32,110420,8.4,Wolf Children
+32,311,8.5,Once Upon a Time in America
+32,12493,8.9,High and Low
+33,25237,7.5,Come and See
+33,1585,8.8,It's a Wonderful Life
+33,569094,9.3,Spider-Man: Across the Spider-Verse
+33,680,8.8,Pulp Fiction
+33,10376,8.1,The Legend of 1900
+33,429,9.2,"The Good, the Bad and the Ugly"
+33,598,7.7,City of God
+33,28,9.3,Apocalypse Now
+33,696374,7.7,Gabriel's Inferno
+33,346,7.9,Seven Samurai
+33,324857,7.7,Spider-Man: Into the Spider-Verse
+33,378064,9.4,A Silent Voice: The Movie
+33,1891,8.4,The Empire Strikes Back
+33,769,8.0,GoodFellas
+33,265177,9.1,Mommy
+33,3782,8.4,Ikiru
+33,10494,8.0,Perfect Blue
+34,25237,7.3,Come and See
+34,490132,7.2,Green Book
+34,769,9.2,GoodFellas
+34,105,7.8,Back to the Future
+34,129,7.5,Spirited Away
+34,637920,8.3,Miracle in Cell No. 7
+34,238,8.8,The Godfather
+34,724089,9.1,Gabriel's Inferno: Part II
+34,378064,9.2,A Silent Voice: The Movie
+34,155,7.7,The Dark Knight
+34,1184918,8.7,The Wild Robot
+34,914,8.8,The Great Dictator
+34,807,7.7,Se7en
+34,995133,8.9,"The Boy, the Mole, the Fox and the Horse"
+35,12493,7.4,High and Low
+35,10494,7.4,Perfect Blue
+35,1585,7.8,It's a Wonderful Life
+35,255709,8.2,Hope
+35,424,7.8,Schindler's List
+35,40096,8.3,A Dog's Will
+35,724089,8.3,Gabriel's Inferno: Part II
+35,447362,8.6,Life in a Year
+35,18491,8.0,Neon Genesis Evangelion: The End of Evangelion
+35,510,7.6,One Flew Over the Cuckoo's Nest
+35,12477,8.9,Grave of the Fireflies
+36,128,9.1,Princess Mononoke
+36,92321,9.2,Hotarubi no Mori e
+36,255709,9.1,Hope
+36,447362,9.1,Life in a Year
+36,914,8.1,The Great Dictator
+36,637920,8.7,Miracle in Cell No. 7
+36,28,9.2,Apocalypse Now
+36,975,8.2,Paths of Glory
+36,496243,8.7,Parasite
+36,265177,8.0,Mommy
+36,274,8.3,The Silence of the Lambs
+36,599,7.5,Sunset Boulevard
+36,550,7.7,Fight Club
+36,630566,8.8,Clouds
+36,424,9.5,Schindler's List
+36,10494,7.9,Perfect Blue
+36,807,8.2,Se7en
+36,504253,8.6,I Want to Eat Your Pancreas
+36,508965,7.9,Klaus
+36,724089,7.9,Gabriel's Inferno: Part II
+37,101,7.4,Léon: The Professional
+37,696374,9.4,Gabriel's Inferno
+37,42269,8.8,We All Loved Each Other So Much
+37,4935,9.1,Howl's Moving Castle
+37,3782,7.6,Ikiru
+37,901,8.7,City Lights
+37,424,8.6,Schindler's List
+37,761053,8.4,Gabriel's Inferno: Part III
+37,129,9.0,Spirited Away
+37,670,8.5,Oldboy
+37,10494,8.6,Perfect Blue
+37,12477,8.8,Grave of the Fireflies
+37,110420,8.8,Wolf Children
+37,128,7.8,Princess Mononoke
+38,569094,8.5,Spider-Man: Across the Spider-Verse
+38,28,8.7,Apocalypse Now
+38,77338,8.1,The Intouchables
+38,8587,7.5,The Lion King
+38,14537,8.8,Harakiri
+38,128,7.3,Princess Mononoke
+38,497,8.5,The Green Mile
+38,761053,8.8,Gabriel's Inferno: Part III
+38,680,9.4,Pulp Fiction
+38,372058,7.7,Your Name.
+38,539,7.4,Psycho
+38,1891,8.3,The Empire Strikes Back
+38,696374,8.4,Gabriel's Inferno
+38,207,7.9,Dead Poets Society
+38,129,8.6,Spirited Away
+38,240,8.0,The Godfather Part II
+38,429,9.5,"The Good, the Bad and the Ugly"
+38,630566,8.5,Clouds
+39,25237,7.7,Come and See
+39,670,9.1,Oldboy
+39,572154,7.5,Rascal Does Not Dream of a Dreaming Girl
+39,1585,7.4,It's a Wonderful Life
+39,105,9.3,Back to the Future
+39,278,8.1,The Shawshank Redemption
+39,3082,7.5,Modern Times
+39,129,7.6,Spirited Away
+39,914,7.4,The Great Dictator
+39,696374,8.7,Gabriel's Inferno
+40,630566,7.9,Clouds
+40,680,8.3,Pulp Fiction
+40,324857,7.6,Spider-Man: Into the Spider-Verse
+40,10494,9.0,Perfect Blue
+40,92321,8.9,Hotarubi no Mori e
+40,299536,8.7,Avengers: Infinity War
+40,311,8.9,Once Upon a Time in America
+40,378064,7.7,A Silent Voice: The Movie
+40,510,8.7,One Flew Over the Cuckoo's Nest
+40,121,9.3,The Lord of the Rings: The Two Towers
+40,995133,8.2,"The Boy, the Mole, the Fox and the Horse"
+40,155,7.5,The Dark Knight
+40,389,7.6,12 Angry Men
+40,299534,8.5,Avengers: Endgame
+41,769,8.7,GoodFellas
+41,299534,8.4,Avengers: Endgame
+41,599,8.0,Sunset Boulevard
+41,508965,7.5,Klaus
+41,1184918,8.9,The Wild Robot
+41,92321,8.6,Hotarubi no Mori e
+41,901,8.7,City Lights
+41,335,8.3,Once Upon a Time in the West
+41,255709,8.3,Hope
+41,28,8.6,Apocalypse Now
+41,429,8.8,"The Good, the Bad and the Ugly"
+41,25237,7.7,Come and See
+41,995133,7.4,"The Boy, the Mole, the Fox and the Horse"
+41,240,9.0,The Godfather Part II
+41,157336,8.5,Interstellar
+41,527641,7.3,Five Feet Apart
+41,207,7.3,Dead Poets Society
+41,265177,9.2,Mommy
+41,975,9.0,Paths of Glory
+41,572154,8.1,Rascal Does Not Dream of a Dreaming Girl
+42,207,8.7,Dead Poets Society
+42,122,7.9,The Lord of the Rings: The Return of the King
+42,73,8.8,American History X
+42,995133,8.8,"The Boy, the Mole, the Fox and the Horse"
+42,12493,7.4,High and Low
+42,527641,9.1,Five Feet Apart
+42,120,8.4,The Lord of the Rings: The Fellowship of the Ring
+42,311,8.7,Once Upon a Time in America
+42,283566,7.4,Evangelion: 3.0+1.0 Thrice Upon a Time
+42,680,8.4,Pulp Fiction
+42,914,7.9,The Great Dictator
+42,335,9.1,Once Upon a Time in the West
+42,10376,8.9,The Legend of 1900
+42,696374,7.9,Gabriel's Inferno
+43,278,8.4,The Shawshank Redemption
+43,567,7.5,Rear Window
+43,10376,7.4,The Legend of 1900
+43,1891,7.9,The Empire Strikes Back
+43,240,8.0,The Godfather Part II
+43,975,8.0,Paths of Glory
+43,1184918,7.9,The Wild Robot
+43,497,7.5,The Green Mile
+43,508965,7.5,Klaus
+43,25237,7.8,Come and See
+43,598,9.1,City of God
+43,3082,9.2,Modern Times
+43,630566,7.5,Clouds
+43,527641,8.3,Five Feet Apart
+43,12477,9.4,Grave of the Fireflies
+43,92321,8.3,Hotarubi no Mori e
+44,122,7.6,The Lord of the Rings: The Return of the King
+44,265177,8.5,Mommy
+44,644479,8.9,Dedicated to my ex
+44,497,9.4,The Green Mile
+44,914,7.5,The Great Dictator
+44,299536,7.5,Avengers: Infinity War
+44,207,8.0,Dead Poets Society
+44,995133,9.1,"The Boy, the Mole, the Fox and the Horse"
+44,92321,7.8,Hotarubi no Mori e
+44,324857,8.6,Spider-Man: Into the Spider-Verse
+44,335,7.4,Once Upon a Time in the West
+45,73,7.4,American History X
+45,10376,9.3,The Legend of 1900
+45,240,8.1,The Godfather Part II
+45,761053,9.1,Gabriel's Inferno: Part III
+45,265177,8.0,Mommy
+45,155,9.2,The Dark Knight
+45,18491,9.3,Neon Genesis Evangelion: The End of Evangelion
+45,539,8.2,Psycho
+45,644479,8.3,Dedicated to my ex
+45,11216,7.4,Cinema Paradiso
+45,25237,7.8,Come and See
+45,10494,7.4,Perfect Blue
+45,423,8.3,The Pianist
+45,696374,7.9,Gabriel's Inferno
+45,278,9.4,The Shawshank Redemption
+45,769,8.4,GoodFellas
+46,10494,7.3,Perfect Blue
+46,901,7.9,City Lights
+46,3082,7.6,Modern Times
+46,40096,7.9,A Dog's Will
+46,77338,8.3,The Intouchables
+46,496243,7.7,Parasite
+46,550,8.3,Fight Club
+46,255709,9.3,Hope
+46,299536,8.4,Avengers: Infinity War
+46,121,7.6,The Lord of the Rings: The Two Towers
+46,975,8.4,Paths of Glory
+46,240,8.4,The Godfather Part II
+47,324857,9.0,Spider-Man: Into the Spider-Verse
+47,129,9.2,Spirited Away
+47,3782,8.6,Ikiru
+47,10494,9.0,Perfect Blue
+47,1585,8.4,It's a Wonderful Life
+47,27205,8.1,Inception
+47,508965,7.5,Klaus
+47,995133,7.9,"The Boy, the Mole, the Fox and the Horse"
+47,1084736,9.2,The Count of Monte-Cristo
+47,120,8.9,The Lord of the Rings: The Fellowship of the Ring
+47,914,8.0,The Great Dictator
+47,490132,8.4,Green Book
+47,496243,8.5,Parasite
+47,644479,8.5,Dedicated to my ex
+47,335,8.4,Once Upon a Time in the West
+47,567,8.4,Rear Window
+47,696374,7.9,Gabriel's Inferno
+47,598,8.0,City of God
+48,1084736,7.4,The Count of Monte-Cristo
+48,378064,7.7,A Silent Voice: The Movie
+48,122,8.9,The Lord of the Rings: The Return of the King
+48,3782,7.3,Ikiru
+48,121,8.6,The Lord of the Rings: The Two Towers
+48,19404,7.6,Dilwale Dulhania Le Jayenge
+48,995133,9.2,"The Boy, the Mole, the Fox and the Horse"
+48,429,9.0,"The Good, the Bad and the Ugly"
+48,278,8.2,The Shawshank Redemption
+48,504253,8.4,I Want to Eat Your Pancreas
+48,311,7.7,Once Upon a Time in America
+48,550,9.1,Fight Club
+48,265177,7.9,Mommy
+48,510,7.7,One Flew Over the Cuckoo's Nest
+48,101,8.4,Léon: The Professional
+48,598,8.6,City of God
+49,378064,8.7,A Silent Voice: The Movie
+49,567,9.2,Rear Window
+49,8587,8.4,The Lion King
+49,14537,9.1,Harakiri
+49,490132,7.3,Green Book
+49,637920,9.0,Miracle in Cell No. 7
+49,265177,7.5,Mommy
+49,278,8.7,The Shawshank Redemption
+49,77338,8.6,The Intouchables
+49,155,7.5,The Dark Knight
+49,447362,7.8,Life in a Year
+49,598,9.2,City of God
+49,120,7.7,The Lord of the Rings: The Fellowship of the Ring
+49,807,9.2,Se7en
+49,73,8.8,American History X
+49,122,9.4,The Lord of the Rings: The Return of the King
+49,299536,8.8,Avengers: Infinity War
+49,424,8.4,Schindler's List
+50,423,8.7,The Pianist
+50,510,9.1,One Flew Over the Cuckoo's Nest
+50,28,7.4,Apocalypse Now
+50,121,8.7,The Lord of the Rings: The Two Towers
+50,4935,8.7,Howl's Moving Castle
+50,637,9.2,Life Is Beautiful
+50,128,7.6,Princess Mononoke
+50,10494,9.2,Perfect Blue
+50,429,8.5,"The Good, the Bad and the Ugly"
+50,914,8.6,The Great Dictator
+50,110420,8.9,Wolf Children
+51,13,7.8,Forrest Gump
+51,769,8.6,GoodFellas
+51,324857,8.6,Spider-Man: Into the Spider-Verse
+51,12477,7.8,Grave of the Fireflies
+51,372058,8.4,Your Name.
+51,550,8.2,Fight Club
+51,240,8.0,The Godfather Part II
+51,77338,7.8,The Intouchables
+51,914,8.0,The Great Dictator
+51,680,7.9,Pulp Fiction
+51,10494,7.5,Perfect Blue
+51,497,9.3,The Green Mile
+51,696374,8.4,Gabriel's Inferno
+51,1084736,8.9,The Count of Monte-Cristo
+52,807,8.4,Se7en
+52,4935,8.5,Howl's Moving Castle
+52,101,8.3,Léon: The Professional
+52,496243,8.4,Parasite
+52,278,8.0,The Shawshank Redemption
+52,12493,8.5,High and Low
+52,389,7.6,12 Angry Men
+52,255709,7.7,Hope
+52,27205,8.8,Inception
+52,19404,8.7,Dilwale Dulhania Le Jayenge
+52,975,7.5,Paths of Glory
+52,299536,9.2,Avengers: Infinity War
+52,1585,8.9,It's a Wonderful Life
+53,4935,9.2,Howl's Moving Castle
+53,122,7.8,The Lord of the Rings: The Return of the King
+53,550,7.9,Fight Club
+53,157336,8.3,Interstellar
+53,378064,7.6,A Silent Voice: The Movie
+53,3782,8.9,Ikiru
+53,110420,8.2,Wolf Children
+53,637,8.7,Life Is Beautiful
+53,1184918,9.6,The Wild Robot
+53,1891,8.9,The Empire Strikes Back
+53,77338,8.8,The Intouchables
+53,637920,7.8,Miracle in Cell No. 7
+53,10376,7.5,The Legend of 1900
+53,121,7.6,The Lord of the Rings: The Two Towers
+54,8587,7.6,The Lion King
+54,10494,7.7,Perfect Blue
+54,155,8.9,The Dark Knight
+54,129,7.5,Spirited Away
+54,599,7.3,Sunset Boulevard
+54,378064,8.4,A Silent Voice: The Movie
+54,527641,8.4,Five Feet Apart
+54,11216,9.1,Cinema Paradiso
+54,724089,9.0,Gabriel's Inferno: Part II
+54,255709,8.1,Hope
+54,283566,8.9,Evangelion: 3.0+1.0 Thrice Upon a Time
+54,121,8.1,The Lord of the Rings: The Two Towers
+54,14537,8.4,Harakiri
+54,807,9.3,Se7en
+54,120,9.4,The Lord of the Rings: The Fellowship of the Ring
+55,255709,8.7,Hope
+55,238,8.8,The Godfather
+55,423,8.5,The Pianist
+55,572154,8.9,Rascal Does Not Dream of a Dreaming Girl
+55,77338,8.8,The Intouchables
+55,769,8.7,GoodFellas
+55,975,8.6,Paths of Glory
+55,599,9.1,Sunset Boulevard
+55,901,8.6,City Lights
+55,598,7.9,City of God
+55,569094,8.4,Spider-Man: Across the Spider-Verse
+55,265177,7.9,Mommy
+55,1891,9.2,The Empire Strikes Back
+55,497,8.3,The Green Mile
+55,18491,7.4,Neon Genesis Evangelion: The End of Evangelion
+55,1585,9.0,It's a Wonderful Life
+55,73,9.3,American History X
+55,539,7.7,Psycho
+55,129,8.3,Spirited Away
+55,274,8.2,The Silence of the Lambs
+56,680,9.5,Pulp Fiction
+56,238,8.2,The Godfather
+56,10376,8.1,The Legend of 1900
+56,324857,8.1,Spider-Man: Into the Spider-Verse
+56,599,9.0,Sunset Boulevard
+56,508965,8.0,Klaus
+56,14537,7.7,Harakiri
+56,670,7.8,Oldboy
+56,1585,8.6,It's a Wonderful Life
+56,240,8.8,The Godfather Part II
+56,157336,8.0,Interstellar
+56,18491,8.9,Neon Genesis Evangelion: The End of Evangelion
+57,11216,9.2,Cinema Paradiso
+57,567,8.9,Rear Window
+57,504253,7.4,I Want to Eat Your Pancreas
+57,510,8.7,One Flew Over the Cuckoo's Nest
+57,1585,8.8,It's a Wonderful Life
+57,630566,8.3,Clouds
+57,696374,8.4,Gabriel's Inferno
+57,3082,8.2,Modern Times
+57,299534,7.6,Avengers: Endgame
+57,598,7.6,City of God
+57,14537,9.0,Harakiri
+57,28,7.5,Apocalypse Now
+57,324857,9.2,Spider-Man: Into the Spider-Verse
+57,599,9.3,Sunset Boulevard
+57,670,9.1,Oldboy
+57,283566,7.5,Evangelion: 3.0+1.0 Thrice Upon a Time
+57,1084736,9.2,The Count of Monte-Cristo
+57,914,8.5,The Great Dictator
+57,73,7.5,American History X
+58,14537,8.3,Harakiri
+58,92321,8.4,Hotarubi no Mori e
+58,42269,7.5,We All Loved Each Other So Much
+58,670,7.4,Oldboy
+58,283566,8.9,Evangelion: 3.0+1.0 Thrice Upon a Time
+58,497,9.4,The Green Mile
+58,1585,9.2,It's a Wonderful Life
+58,975,8.9,Paths of Glory
+58,995133,8.3,"The Boy, the Mole, the Fox and the Horse"
+58,105,8.0,Back to the Future
+58,724089,8.3,Gabriel's Inferno: Part II
+58,424,9.1,Schindler's List
+58,423,9.1,The Pianist
+58,324857,9.4,Spider-Man: Into the Spider-Verse
+58,18491,7.8,Neon Genesis Evangelion: The End of Evangelion
+58,3782,7.7,Ikiru
+58,598,7.5,City of God
+58,10376,7.8,The Legend of 1900
+58,278,7.9,The Shawshank Redemption
+59,77338,7.9,The Intouchables
+59,120,8.0,The Lord of the Rings: The Fellowship of the Ring
+59,238,9.0,The Godfather
+59,637920,8.5,Miracle in Cell No. 7
+59,550,7.7,Fight Club
+59,1585,9.1,It's a Wonderful Life
+59,12493,8.0,High and Low
+59,3082,8.0,Modern Times
+59,73,7.4,American History X
+59,995133,9.2,"The Boy, the Mole, the Fox and the Horse"
+59,10494,8.9,Perfect Blue
+60,121,7.7,The Lord of the Rings: The Two Towers
+60,378064,9.2,A Silent Voice: The Movie
+60,155,7.5,The Dark Knight
+60,497,8.4,The Green Mile
+60,539,8.1,Psycho
+60,18491,7.7,Neon Genesis Evangelion: The End of Evangelion
+60,423,8.5,The Pianist
+60,761053,8.6,Gabriel's Inferno: Part III
+60,995133,9.2,"The Boy, the Mole, the Fox and the Horse"
+60,4935,8.4,Howl's Moving Castle
+60,25237,8.6,Come and See
+60,129,7.7,Spirited Away
+60,346,7.7,Seven Samurai
+60,255709,9.1,Hope
+60,278,7.9,The Shawshank Redemption
+60,630566,8.4,Clouds
+60,27205,7.5,Inception
+60,389,8.9,12 Angry Men
+60,598,7.8,City of God
+60,550,8.1,Fight Club
+61,346,9.4,Seven Samurai
+61,311,8.6,Once Upon a Time in America
+61,637,8.6,Life Is Beautiful
+61,122,9.1,The Lord of the Rings: The Return of the King
+61,447362,8.5,Life in a Year
+61,567,9.4,Rear Window
+61,724089,8.9,Gabriel's Inferno: Part II
+61,769,7.5,GoodFellas
+61,550,9.1,Fight Club
+61,1585,7.8,It's a Wonderful Life
+62,12477,8.7,Grave of the Fireflies
+62,637,8.0,Life Is Beautiful
+62,92321,9.3,Hotarubi no Mori e
+62,372058,9.1,Your Name.
+62,77338,9.1,The Intouchables
+62,335,8.4,Once Upon a Time in the West
+62,3082,7.8,Modern Times
+62,244786,8.7,Whiplash
+62,122,9.3,The Lord of the Rings: The Return of the King
+62,240,8.7,The Godfather Part II
+62,378064,8.2,A Silent Voice: The Movie
+62,101,9.0,Léon: The Professional
+63,311,8.0,Once Upon a Time in America
+63,12493,7.4,High and Low
+63,429,8.2,"The Good, the Bad and the Ugly"
+63,914,8.4,The Great Dictator
+63,18491,7.9,Neon Genesis Evangelion: The End of Evangelion
+63,1585,8.7,It's a Wonderful Life
+63,769,7.5,GoodFellas
+63,105,9.2,Back to the Future
+63,12477,8.7,Grave of the Fireflies
+63,572154,8.1,Rascal Does Not Dream of a Dreaming Girl
+63,1184918,8.5,The Wild Robot
+63,423,7.6,The Pianist
+63,696374,7.6,Gabriel's Inferno
+63,42269,9.3,We All Loved Each Other So Much
+63,274,7.5,The Silence of the Lambs
+63,1891,8.9,The Empire Strikes Back
+63,508965,8.3,Klaus
+63,539,8.3,Psycho
+63,324857,7.6,Spider-Man: Into the Spider-Verse
+64,14537,8.6,Harakiri
+64,238,8.8,The Godfather
+64,761053,9.0,Gabriel's Inferno: Part III
+64,105,9.1,Back to the Future
+64,12493,8.3,High and Low
+64,496243,8.0,Parasite
+64,10376,8.5,The Legend of 1900
+64,11216,8.8,Cinema Paradiso
+64,12477,8.1,Grave of the Fireflies
+64,299534,7.9,Avengers: Endgame
+64,346,9.4,Seven Samurai
+64,680,7.6,Pulp Fiction
+64,497,9.3,The Green Mile
+64,637,9.4,Life Is Beautiful
+64,550,9.0,Fight Club
+64,101,7.7,Léon: The Professional
+64,4935,8.0,Howl's Moving Castle
+64,299536,8.8,Avengers: Infinity War
+64,914,7.5,The Great Dictator
+64,539,9.4,Psycho
+65,724089,9.0,Gabriel's Inferno: Part II
+65,389,9.0,12 Angry Men
+65,378064,7.6,A Silent Voice: The Movie
+65,346,7.7,Seven Samurai
+65,680,8.0,Pulp Fiction
+65,490132,7.4,Green Book
+65,274,7.4,The Silence of the Lambs
+65,3782,8.6,Ikiru
+65,157336,8.6,Interstellar
+65,539,8.3,Psycho
+65,769,8.3,GoodFellas
+65,73,8.7,American History X
+65,901,7.4,City Lights
+65,550,8.8,Fight Club
+65,299536,8.7,Avengers: Infinity War
+65,429,9.2,"The Good, the Bad and the Ugly"
+65,567,8.0,Rear Window
+66,121,8.7,The Lord of the Rings: The Two Towers
+66,120,8.5,The Lord of the Rings: The Fellowship of the Ring
+66,389,8.8,12 Angry Men
+66,28,8.9,Apocalypse Now
+66,255709,8.9,Hope
+66,299536,7.5,Avengers: Infinity War
+66,769,7.5,GoodFellas
+66,27205,7.9,Inception
+66,510,8.2,One Flew Over the Cuckoo's Nest
+66,569094,8.3,Spider-Man: Across the Spider-Verse
+66,724089,8.8,Gabriel's Inferno: Part II
+66,122,7.9,The Lord of the Rings: The Return of the King
+66,567,7.5,Rear Window
+66,490132,9.0,Green Book
+67,19404,8.6,Dilwale Dulhania Le Jayenge
+67,299536,8.1,Avengers: Infinity War
+67,510,7.9,One Flew Over the Cuckoo's Nest
+67,25237,8.0,Come and See
+67,129,9.1,Spirited Away
+67,12493,9.2,High and Low
+67,724089,9.0,Gabriel's Inferno: Part II
+67,77338,8.8,The Intouchables
+67,598,9.0,City of God
+67,914,9.3,The Great Dictator
+67,644479,8.1,Dedicated to my ex
+67,10376,8.0,The Legend of 1900
+67,105,9.1,Back to the Future
+67,11216,9.1,Cinema Paradiso
+68,447362,9.0,Life in a Year
+68,105,8.1,Back to the Future
+68,299536,8.1,Avengers: Infinity War
+68,335,8.0,Once Upon a Time in the West
+68,569094,8.9,Spider-Man: Across the Spider-Verse
+68,92321,7.8,Hotarubi no Mori e
+68,424,8.5,Schindler's List
+68,3082,8.2,Modern Times
+68,995133,8.0,"The Boy, the Mole, the Fox and the Horse"
+68,274,9.0,The Silence of the Lambs
+68,510,8.0,One Flew Over the Cuckoo's Nest
+68,238,7.8,The Godfather
+68,11216,9.0,Cinema Paradiso
+68,567,9.2,Rear Window
+68,155,8.8,The Dark Knight
+68,255709,8.6,Hope
+68,77338,8.3,The Intouchables
+68,598,8.3,City of God
+69,77338,8.5,The Intouchables
+69,12477,8.0,Grave of the Fireflies
+69,670,8.5,Oldboy
+69,447362,8.1,Life in a Year
+69,335,9.1,Once Upon a Time in the West
+69,510,9.1,One Flew Over the Cuckoo's Nest
+69,121,9.3,The Lord of the Rings: The Two Towers
+69,101,8.2,Léon: The Professional
+69,283566,8.4,Evangelion: 3.0+1.0 Thrice Upon a Time
+69,3082,7.9,Modern Times
+69,680,7.8,Pulp Fiction
+69,42269,7.3,We All Loved Each Other So Much
+69,490132,7.7,Green Book
+69,27205,9.2,Inception
+69,527641,7.4,Five Feet Apart
+70,129,8.0,Spirited Away
+70,77338,7.9,The Intouchables
+70,724089,7.8,Gabriel's Inferno: Part II
+70,3082,7.9,Modern Times
+70,637920,8.6,Miracle in Cell No. 7
+70,1891,9.3,The Empire Strikes Back
+70,12477,9.2,Grave of the Fireflies
+70,1184918,9.1,The Wild Robot
+70,670,8.0,Oldboy
+70,598,7.9,City of God
+70,12493,8.4,High and Low
+70,278,9.1,The Shawshank Redemption
+70,389,7.9,12 Angry Men
+70,105,7.4,Back to the Future
+70,283566,8.3,Evangelion: 3.0+1.0 Thrice Upon a Time
+70,324857,8.7,Spider-Man: Into the Spider-Verse
+71,346,9.3,Seven Samurai
+71,569094,8.3,Spider-Man: Across the Spider-Verse
+71,644479,8.8,Dedicated to my ex
+71,77338,9.2,The Intouchables
+71,265177,8.4,Mommy
+71,299536,9.2,Avengers: Infinity War
+71,901,8.5,City Lights
+71,490132,8.0,Green Book
+71,372058,8.7,Your Name.
+71,3082,9.0,Modern Times
+71,240,8.7,The Godfather Part II
+71,389,8.1,12 Angry Men
+71,429,9.0,"The Good, the Bad and the Ugly"
+71,101,8.3,Léon: The Professional
+71,12477,8.0,Grave of the Fireflies
+71,423,9.1,The Pianist
+72,14537,8.6,Harakiri
+72,12477,7.7,Grave of the Fireflies
+72,572154,9.0,Rascal Does Not Dream of a Dreaming Girl
+72,8587,7.9,The Lion King
+72,12493,7.8,High and Low
+72,637,7.7,Life Is Beautiful
+72,324857,8.3,Spider-Man: Into the Spider-Verse
+72,77338,7.6,The Intouchables
+72,299536,9.0,Avengers: Infinity War
+72,244786,8.4,Whiplash
+73,724089,9.3,Gabriel's Inferno: Part II
+73,73,8.8,American History X
+73,238,7.7,The Godfather
+73,128,9.3,Princess Mononoke
+73,424,7.7,Schindler's List
+73,101,8.9,Léon: The Professional
+73,389,9.4,12 Angry Men
+73,92321,7.8,Hotarubi no Mori e
+73,299536,8.5,Avengers: Infinity War
+73,13,9.5,Forrest Gump
+73,447362,7.5,Life in a Year
+73,28,9.2,Apocalypse Now
+73,1184918,8.9,The Wild Robot
+73,490132,8.6,Green Book
+74,598,7.7,City of God
+74,207,8.6,Dead Poets Society
+74,567,8.9,Rear Window
+74,299536,8.6,Avengers: Infinity War
+74,335,7.9,Once Upon a Time in the West
+74,157336,8.1,Interstellar
+74,569094,8.5,Spider-Man: Across the Spider-Verse
+74,128,8.3,Princess Mononoke
+74,1891,8.7,The Empire Strikes Back
+74,508965,7.9,Klaus
+74,12477,9.5,Grave of the Fireflies
+74,510,9.2,One Flew Over the Cuckoo's Nest
+74,696374,7.7,Gabriel's Inferno
+74,807,8.3,Se7en
+74,490132,8.3,Green Book
+74,274,8.3,The Silence of the Lambs
+74,40096,7.4,A Dog's Will
+74,539,8.0,Psycho
+74,527641,7.3,Five Feet Apart
+75,3082,8.9,Modern Times
+75,11216,8.8,Cinema Paradiso
+75,40096,8.5,A Dog's Will
+75,637,9.3,Life Is Beautiful
+75,680,8.5,Pulp Fiction
+75,539,8.1,Psycho
+75,335,8.3,Once Upon a Time in the West
+75,490132,7.6,Green Book
+75,1084736,8.3,The Count of Monte-Cristo
+75,8587,7.8,The Lion King
+75,901,8.0,City Lights
+76,335,9.3,Once Upon a Time in the West
+76,696374,9.4,Gabriel's Inferno
+76,637,7.8,Life Is Beautiful
+76,3782,9.0,Ikiru
+76,283566,8.3,Evangelion: 3.0+1.0 Thrice Upon a Time
+76,1891,8.9,The Empire Strikes Back
+76,8587,8.1,The Lion King
+76,3082,8.1,Modern Times
+76,120,8.0,The Lord of the Rings: The Fellowship of the Ring
+76,504253,7.6,I Want to Eat Your Pancreas
+76,19404,9.3,Dilwale Dulhania Le Jayenge
+77,901,7.4,City Lights
+77,3782,8.8,Ikiru
+77,122,8.2,The Lord of the Rings: The Return of the King
+77,77338,8.5,The Intouchables
+77,19404,8.8,Dilwale Dulhania Le Jayenge
+77,265177,7.3,Mommy
+77,120,8.3,The Lord of the Rings: The Fellowship of the Ring
+77,42269,9.1,We All Loved Each Other So Much
+77,299534,7.8,Avengers: Endgame
+77,8587,8.6,The Lion King
+77,129,8.4,Spirited Away
+78,1184918,8.6,The Wild Robot
+78,1891,8.9,The Empire Strikes Back
+78,372058,7.5,Your Name.
+78,238,8.8,The Godfather
+78,644479,8.2,Dedicated to my ex
+78,120,7.8,The Lord of the Rings: The Fellowship of the Ring
+78,429,7.6,"The Good, the Bad and the Ugly"
+78,761053,8.1,Gabriel's Inferno: Part III
+78,157336,8.8,Interstellar
+78,299534,8.8,Avengers: Endgame
+78,572154,9.2,Rascal Does Not Dream of a Dreaming Girl
+78,424,8.2,Schindler's List
+78,769,8.8,GoodFellas
+78,630566,9.3,Clouds
+78,92321,8.6,Hotarubi no Mori e
+79,424,8.1,Schindler's List
+79,73,8.0,American History X
+79,299536,8.7,Avengers: Infinity War
+79,299534,7.4,Avengers: Endgame
+79,539,8.6,Psycho
+79,995133,8.8,"The Boy, the Mole, the Fox and the Horse"
+79,244786,8.0,Whiplash
+79,120,8.2,The Lord of the Rings: The Fellowship of the Ring
+79,129,7.8,Spirited Away
+79,567,8.0,Rear Window
+79,527641,9.0,Five Feet Apart
+79,207,8.3,Dead Poets Society
+79,27205,8.5,Inception
+79,975,7.9,Paths of Glory
+79,644479,7.9,Dedicated to my ex
+79,128,8.9,Princess Mononoke
+80,311,7.9,Once Upon a Time in America
+80,238,8.0,The Godfather
+80,265177,8.2,Mommy
+80,73,8.5,American History X
+80,3782,8.7,Ikiru
+80,240,8.1,The Godfather Part II
+80,12477,8.5,Grave of the Fireflies
+80,429,8.8,"The Good, the Bad and the Ugly"
+80,25237,8.8,Come and See
+80,14537,7.5,Harakiri
+80,10376,9.1,The Legend of 1900
+80,105,7.7,Back to the Future
+81,567,8.3,Rear Window
+81,92321,8.7,Hotarubi no Mori e
+81,550,8.5,Fight Club
+81,299534,8.3,Avengers: Endgame
+81,429,7.8,"The Good, the Bad and the Ugly"
+81,637,7.5,Life Is Beautiful
+81,807,8.4,Se7en
+81,278,9.3,The Shawshank Redemption
+81,18491,9.1,Neon Genesis Evangelion: The End of Evangelion
+81,1084736,9.2,The Count of Monte-Cristo
+81,12493,8.7,High and Low
+81,3782,8.4,Ikiru
+81,14537,8.1,Harakiri
+81,423,9.1,The Pianist
+81,504253,7.5,I Want to Eat Your Pancreas
+81,680,9.0,Pulp Fiction
+81,121,8.5,The Lord of the Rings: The Two Towers
+81,155,7.6,The Dark Knight
+81,724089,8.4,Gabriel's Inferno: Part II
+82,8587,8.2,The Lion King
+82,77338,8.3,The Intouchables
+82,129,8.6,Spirited Away
+82,423,8.5,The Pianist
+82,42269,7.5,We All Loved Each Other So Much
+82,598,7.9,City of God
+82,92321,8.9,Hotarubi no Mori e
+82,122,7.7,The Lord of the Rings: The Return of the King
+82,120,8.8,The Lord of the Rings: The Fellowship of the Ring
+82,567,8.9,Rear Window
+82,299536,7.5,Avengers: Infinity War
+82,157336,8.9,Interstellar
+82,424,9.5,Schindler's List
+82,255709,9.1,Hope
+83,527641,9.2,Five Feet Apart
+83,265177,8.0,Mommy
+83,3782,8.6,Ikiru
+83,372058,9.3,Your Name.
+83,724089,9.1,Gabriel's Inferno: Part II
+83,128,9.0,Princess Mononoke
+83,155,8.3,The Dark Knight
+83,122,9.4,The Lord of the Rings: The Return of the King
+83,995133,7.4,"The Boy, the Mole, the Fox and the Horse"
+83,19404,8.0,Dilwale Dulhania Le Jayenge
+83,42269,7.9,We All Loved Each Other So Much
+83,761053,7.7,Gabriel's Inferno: Part III
+83,105,8.8,Back to the Future
+83,496243,8.3,Parasite
+84,995133,8.2,"The Boy, the Mole, the Fox and the Horse"
+84,13,8.5,Forrest Gump
+84,244786,8.9,Whiplash
+84,1585,7.3,It's a Wonderful Life
+84,527641,8.3,Five Feet Apart
+84,92321,8.3,Hotarubi no Mori e
+84,120,8.1,The Lord of the Rings: The Fellowship of the Ring
+84,1084736,7.6,The Count of Monte-Cristo
+84,11216,9.1,Cinema Paradiso
+84,335,8.2,Once Upon a Time in the West
+84,12477,8.2,Grave of the Fireflies
+84,128,9.0,Princess Mononoke
+84,599,7.4,Sunset Boulevard
+84,4935,9.0,Howl's Moving Castle
+84,110420,7.5,Wolf Children
+84,567,9.4,Rear Window
+84,324857,7.9,Spider-Man: Into the Spider-Verse
+84,8587,8.6,The Lion King
+85,510,8.0,One Flew Over the Cuckoo's Nest
+85,18491,8.5,Neon Genesis Evangelion: The End of Evangelion
+85,550,8.5,Fight Club
+85,644479,8.4,Dedicated to my ex
+85,1585,7.5,It's a Wonderful Life
+85,11216,8.2,Cinema Paradiso
+85,101,8.9,Léon: The Professional
+85,508965,8.0,Klaus
+85,155,9.0,The Dark Knight
+85,637,8.7,Life Is Beautiful
+85,19404,8.9,Dilwale Dulhania Le Jayenge
+85,324857,9.2,Spider-Man: Into the Spider-Verse
+85,901,8.4,City Lights
+86,128,9.3,Princess Mononoke
+86,207,8.9,Dead Poets Society
+86,572154,9.2,Rascal Does Not Dream of a Dreaming Girl
+86,105,8.5,Back to the Future
+86,244786,8.3,Whiplash
+86,121,8.2,The Lord of the Rings: The Two Towers
+86,18491,8.9,Neon Genesis Evangelion: The End of Evangelion
+86,490132,8.3,Green Book
+86,389,8.3,12 Angry Men
+86,423,8.8,The Pianist
+86,1585,9.2,It's a Wonderful Life
+87,769,8.6,GoodFellas
+87,105,8.6,Back to the Future
+87,761053,7.6,Gabriel's Inferno: Part III
+87,12493,8.2,High and Low
+87,101,8.2,Léon: The Professional
+87,12477,7.5,Grave of the Fireflies
+87,13,9.3,Forrest Gump
+87,155,9.4,The Dark Knight
+87,238,9.7,The Godfather
+87,508965,8.4,Klaus
+87,240,8.2,The Godfather Part II
+87,724089,8.6,Gabriel's Inferno: Part II
+88,569094,8.7,Spider-Man: Across the Spider-Verse
+88,122,7.9,The Lord of the Rings: The Return of the King
+88,346,8.2,Seven Samurai
+88,724089,8.9,Gabriel's Inferno: Part II
+88,255709,7.7,Hope
+88,10376,8.8,The Legend of 1900
+88,3082,8.7,Modern Times
+88,73,7.9,American History X
+88,497,8.1,The Green Mile
+88,680,8.3,Pulp Fiction
+88,598,8.0,City of God
+88,283566,7.9,Evangelion: 3.0+1.0 Thrice Upon a Time
+88,539,9.1,Psycho
+88,25237,8.3,Come and See
+88,914,8.7,The Great Dictator
+88,769,9.2,GoodFellas
+88,101,8.2,Léon: The Professional
+88,550,8.0,Fight Club
+88,155,9.3,The Dark Knight
+88,508965,7.9,Klaus
+89,572154,8.5,Rascal Does Not Dream of a Dreaming Girl
+89,761053,7.6,Gabriel's Inferno: Part III
+89,240,9.6,The Godfather Part II
+89,244786,9.2,Whiplash
+89,8587,7.4,The Lion King
+89,311,9.1,Once Upon a Time in America
+89,447362,8.9,Life in a Year
+89,25237,8.1,Come and See
+89,1084736,9.0,The Count of Monte-Cristo
+89,10376,7.5,The Legend of 1900
+89,901,8.5,City Lights
+89,508965,7.6,Klaus
+89,4935,8.0,Howl's Moving Castle
+89,378064,8.2,A Silent Voice: The Movie
+89,995133,8.8,"The Boy, the Mole, the Fox and the Horse"
+89,19404,8.2,Dilwale Dulhania Le Jayenge
+90,975,7.4,Paths of Glory
+90,630566,9.0,Clouds
+90,539,9.1,Psycho
+90,572154,9.0,Rascal Does Not Dream of a Dreaming Girl
+90,680,8.4,Pulp Fiction
+90,769,8.3,GoodFellas
+90,265177,8.8,Mommy
+90,389,7.6,12 Angry Men
+90,4935,8.8,Howl's Moving Castle
+90,550,9.4,Fight Club
+90,28,8.5,Apocalypse Now
+90,637920,8.2,Miracle in Cell No. 7
+90,1084736,8.5,The Count of Monte-Cristo
+90,157336,8.8,Interstellar
+90,447362,7.7,Life in a Year
+90,238,9.1,The Godfather
+90,508965,8.2,Klaus
+90,274,7.6,The Silence of the Lambs
+90,92321,7.6,Hotarubi no Mori e
+91,129,8.1,Spirited Away
+91,3082,8.5,Modern Times
+91,10494,8.2,Perfect Blue
+91,25237,8.7,Come and See
+91,92321,8.3,Hotarubi no Mori e
+91,101,8.3,Léon: The Professional
+91,238,9.2,The Godfather
+91,447362,7.5,Life in a Year
+91,1585,7.9,It's a Wonderful Life
+91,4935,8.5,Howl's Moving Castle
+91,496243,9.5,Parasite
+91,255709,7.7,Hope
+91,240,8.7,The Godfather Part II
+91,278,8.0,The Shawshank Redemption
+91,155,8.8,The Dark Knight
+92,724089,8.7,Gabriel's Inferno: Part II
+92,761053,7.6,Gabriel's Inferno: Part III
+92,497,8.8,The Green Mile
+92,504253,7.8,I Want to Eat Your Pancreas
+92,637,7.6,Life Is Beautiful
+92,3782,8.5,Ikiru
+92,77338,8.7,The Intouchables
+92,278,9.0,The Shawshank Redemption
+92,10376,8.3,The Legend of 1900
+92,670,8.2,Oldboy
+92,311,7.4,Once Upon a Time in America
+93,18491,8.6,Neon Genesis Evangelion: The End of Evangelion
+93,10376,7.3,The Legend of 1900
+93,914,7.9,The Great Dictator
+93,995133,8.8,"The Boy, the Mole, the Fox and the Horse"
+93,77338,7.6,The Intouchables
+93,73,9.1,American History X
+93,299534,8.4,Avengers: Endgame
+93,510,9.3,One Flew Over the Cuckoo's Nest
+93,240,8.3,The Godfather Part II
+93,265177,8.1,Mommy
+93,129,7.8,Spirited Away
+93,12477,8.1,Grave of the Fireflies
+93,423,8.7,The Pianist
+93,255709,8.1,Hope
+93,324857,8.9,Spider-Man: Into the Spider-Verse
+93,244786,7.8,Whiplash
+93,429,7.6,"The Good, the Bad and the Ugly"
+94,42269,8.1,We All Loved Each Other So Much
+94,10376,7.6,The Legend of 1900
+94,240,7.9,The Godfather Part II
+94,807,9.2,Se7en
+94,11216,9.0,Cinema Paradiso
+94,207,8.7,Dead Poets Society
+94,497,8.5,The Green Mile
+94,901,7.5,City Lights
+94,92321,8.2,Hotarubi no Mori e
+94,105,7.6,Back to the Future
+94,680,8.3,Pulp Fiction
+95,3082,7.8,Modern Times
+95,1184918,8.4,The Wild Robot
+95,644479,8.8,Dedicated to my ex
+95,539,8.6,Psycho
+95,129,7.8,Spirited Away
+95,299536,7.6,Avengers: Infinity War
+95,569094,7.7,Spider-Man: Across the Spider-Verse
+95,372058,8.9,Your Name.
+95,527641,8.7,Five Feet Apart
+95,42269,9.2,We All Loved Each Other So Much
+95,423,8.0,The Pianist
+95,244786,8.3,Whiplash
+95,77338,8.1,The Intouchables
+95,255709,9.0,Hope
+95,496243,9.3,Parasite
+95,92321,7.6,Hotarubi no Mori e
+96,12493,8.6,High and Low
+96,670,9.1,Oldboy
+96,101,7.4,Léon: The Professional
+96,497,7.9,The Green Mile
+96,240,7.7,The Godfather Part II
+96,40096,7.8,A Dog's Will
+96,274,7.6,The Silence of the Lambs
+96,637,8.6,Life Is Beautiful
+96,122,8.4,The Lord of the Rings: The Return of the King
+96,599,8.6,Sunset Boulevard
+96,14537,8.6,Harakiri
+96,13,8.3,Forrest Gump
+96,110420,8.7,Wolf Children
+96,128,8.7,Princess Mononoke
+96,567,7.4,Rear Window
+96,680,9.0,Pulp Fiction
+96,630566,8.7,Clouds
+96,539,8.2,Psycho
+97,255709,8.0,Hope
+97,637,7.6,Life Is Beautiful
+97,283566,8.0,Evangelion: 3.0+1.0 Thrice Upon a Time
+97,27205,8.6,Inception
+97,110420,7.6,Wolf Children
+97,14537,8.8,Harakiri
+97,11216,8.5,Cinema Paradiso
+97,680,8.0,Pulp Fiction
+97,240,7.6,The Godfather Part II
+97,25237,7.6,Come and See
+97,3082,9.1,Modern Times
+97,157336,8.8,Interstellar
+97,429,8.5,"The Good, the Bad and the Ugly"
+97,13,7.7,Forrest Gump
+97,447362,8.6,Life in a Year
+97,1084736,7.9,The Count of Monte-Cristo
+97,389,8.0,12 Angry Men
+97,569094,7.4,Spider-Man: Across the Spider-Verse
+98,8587,8.7,The Lion King
+98,207,9.2,Dead Poets Society
+98,12477,9.2,Grave of the Fireflies
+98,599,8.1,Sunset Boulevard
+98,807,8.2,Se7en
+98,238,9.0,The Godfather
+98,901,9.0,City Lights
+98,508965,8.1,Klaus
+98,122,9.4,The Lord of the Rings: The Return of the King
+98,255709,9.4,Hope
+98,637,9.0,Life Is Beautiful
+98,346,7.5,Seven Samurai
+98,4935,7.7,Howl's Moving Castle
+98,1891,8.3,The Empire Strikes Back
+98,42269,7.6,We All Loved Each Other So Much
+98,27205,8.2,Inception
+98,1585,8.9,It's a Wonderful Life
+99,3082,7.8,Modern Times
+99,637,9.3,Life Is Beautiful
+99,510,8.1,One Flew Over the Cuckoo's Nest
+99,12477,7.8,Grave of the Fireflies
+99,346,8.6,Seven Samurai
+99,28,8.9,Apocalypse Now
+99,569094,7.4,Spider-Man: Across the Spider-Verse
+99,19404,8.1,Dilwale Dulhania Le Jayenge
+99,447362,7.9,Life in a Year
+99,335,9.1,Once Upon a Time in the West
+100,901,8.1,City Lights
+100,4935,7.7,Howl's Moving Castle
+100,8587,8.1,The Lion King
+100,19404,7.6,Dilwale Dulhania Le Jayenge
+100,25237,7.9,Come and See
+100,389,8.3,12 Angry Men
+100,527641,7.4,Five Feet Apart
+100,569094,9.2,Spider-Man: Across the Spider-Verse
+100,429,8.4,"The Good, the Bad and the Ugly"
+100,914,9.2,The Great Dictator
+100,378064,9.2,A Silent Voice: The Movie
+100,73,9.1,American History X
+100,572154,8.6,Rascal Does Not Dream of a Dreaming Girl
+100,255709,8.7,Hope
+100,769,8.0,GoodFellas
